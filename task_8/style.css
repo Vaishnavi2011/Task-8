@@ -1,0 +1,22 @@
+ /* html{
+     background-color: white;
+    }  */
+    h1{
+        margin-top: 0%;
+        font-size: 80px;
+        font-family:serif;
+        margin-left: 50px;
+        
+    }
+    h2{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-left: 50px;
+    }
+    .d{
+        display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    }
+    .s2{
+        margin-left: 900px;
+    }
